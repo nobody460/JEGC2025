@@ -1,0 +1,12 @@
+{
+  "comps": [
+    {
+      "id": "jegc2025-club",
+      "name": "JEGC2025",
+      "short": "Club Class",
+      "task": "https://www.soaringspot.com/en_gb/7th-fai-junior-european-gliding-championships-prievidza-2025/tasks/unknown/task-4-on-2025-07-11",
+      "colour": "#0074D9"
+    }
+  ],
+  "gliders": "https://github.com/nobody460/JEGC2025/raw/refs/heads/main/pilots_club.json"
+}

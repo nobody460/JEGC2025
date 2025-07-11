@@ -1,0 +1,173 @@
+[
+    {
+        "name": "Patrick Benoist - GER",
+        "cn": "PB",
+        "glider": "LS 8T Neo",
+        "comp": "jegc2025-standard",
+        "flarm": [
+            "DF1273"
+        ]
+    },
+    {
+        "name": "Oscar Butlin - GBR",
+        "cn": "D7",
+        "glider": "LS 8",
+        "comp": "jegc2025-standard",
+        "flarm": [
+            "D02958"
+        ]
+    },
+    {
+        "name": "Cl\u00e9ment de P\u00e9chy - FRA",
+        "cn": "2E",
+        "glider": "LS 8 Neo",
+        "comp": "jegc2025-standard",
+        "flarm": [
+            "3EF1AF"
+        ]
+    },
+    {
+        "name": "Lasse Edslev - DEN",
+        "cn": "LE",
+        "glider": "LS 8 Neo",
+        "comp": "jegc2025-standard",
+        "flarm": [
+            "D02C3E"
+        ]
+    },
+    {
+        "name": "Nuno Ferreira - GER",
+        "cn": "FJ",
+        "glider": "LS 8 neo",
+        "comp": "jegc2025-standard",
+        "flarm": [
+            "DF17A7"
+        ]
+    },
+    {
+        "name": "Tomas Hynek - CZE",
+        "cn": "EU",
+        "glider": "LS 8",
+        "comp": "jegc2025-standard",
+        "flarm": [
+            "D0018B"
+        ]
+    },
+    {
+        "name": "Noud Kaaij - NLD",
+        "cn": "71",
+        "glider": "LS 8e neo",
+        "comp": "jegc2025-standard",
+        "flarm": [
+            "D004CA"
+        ]
+    },
+    {
+        "name": "Maciej Kowalski - POL",
+        "cn": "I",
+        "glider": "Discus 2a",
+        "comp": "jegc2025-standard",
+        "flarm": [
+            "DDEE69"
+        ]
+    },
+    {
+        "name": "Lukas Kriz - CZE",
+        "cn": "AU",
+        "glider": "LS 8",
+        "comp": "jegc2025-standard",
+        "flarm": [
+            "D028C8"
+        ]
+    },
+    {
+        "name": "Tomasz Kurowski - POL",
+        "cn": "Y",
+        "glider": "Discus 2a W",
+        "comp": "jegc2025-standard",
+        "flarm": [
+            "E75198"
+        ]
+    },
+    {
+        "name": "Jacob Bogelund Lassen - DEN",
+        "cn": "MK",
+        "glider": "Discus 2a W",
+        "comp": "jegc2025-standard",
+        "flarm": [
+            "DF0E33"
+        ]
+    },
+    {
+        "name": "M\u00e1t\u00e9 M\u00e9sz\u00e1ros - HUN",
+        "cn": "HUN",
+        "glider": "Discus 2a W",
+        "comp": "jegc2025-standard",
+        "flarm": [
+            "D00165"
+        ]
+    },
+    {
+        "name": "Th\u00e9o Napol\u00e9on - FRA",
+        "cn": "S2",
+        "glider": "LS 8 Neo",
+        "comp": "jegc2025-standard",
+        "flarm": [
+            "DDE30D"
+        ]
+    },
+    {
+        "name": "Fran\u00e7ois-Xavier Poisson - FRA",
+        "cn": "ET",
+        "glider": "Discus 2a W",
+        "comp": "jegc2025-standard",
+        "flarm": [
+            "DDF12C"
+        ]
+    },
+    {
+        "name": "Oliver Ramsay - GBR",
+        "cn": "302",
+        "glider": "LS 8",
+        "comp": "jegc2025-standard",
+        "flarm": [
+            "D0333C"
+        ]
+    },
+    {
+        "name": "Michaela Rendlova - CZE",
+        "cn": "W8",
+        "glider": "LS 8",
+        "comp": "jegc2025-standard",
+        "flarm": [
+            "DO2B9S"
+        ]
+    },
+    {
+        "name": "Paul Schwarz - GER",
+        "cn": "A8",
+        "glider": "LS 8 Neo",
+        "comp": "jegc2025-standard",
+        "flarm": [
+            "DD859A"
+        ]
+    },
+    {
+        "name": "Niels van Nieuwland - NLD",
+        "cn": "VNE",
+        "glider": "LS 8 Neo",
+        "comp": "jegc2025-standard",
+        "flarm": [
+            "485F92"
+        ]
+    },
+    {
+        "name": "Antoni Zawirski - POL",
+        "cn": "LOT",
+        "glider": "LS 8 Neo",
+        "comp": "jegc2025-standard",
+        "flarm": [
+            "D02AAE"
+        ]
+    }
+]
